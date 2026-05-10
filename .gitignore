@@ -1,6 +1,7 @@
 *
 !.gitignore
 !.nojekyll
+!404.html
 !CNAME
 !favicon.ico
 !index.html
